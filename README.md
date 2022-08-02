@@ -19,8 +19,9 @@ Algorithm &amp; Coding interview based full-stack app, inspired by platform such
 * Node  
   * dotenv
   * cors
-* AWS
-  * SNS
-  * DynamoDB
-  * Lambda
-  * Cognito
+* Heroku
+  * PSQL
+* Prisma
+*Postman
+
+
