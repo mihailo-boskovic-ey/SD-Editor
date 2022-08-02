@@ -22,6 +22,6 @@ Algorithm &amp; Coding interview based full-stack app, inspired by platform such
 * Heroku
   * PSQL
 * Prisma
-*Postman
+* Postman
 
 
